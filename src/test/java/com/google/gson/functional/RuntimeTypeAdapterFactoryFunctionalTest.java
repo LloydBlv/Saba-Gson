@@ -37,7 +37,7 @@ import com.google.gson.stream.JsonWriter;
 /**
  * Functional tests for the RuntimeTypeAdapterFactory feature in extras.
  */
-public final class RuntimeTypeAdapterFactoryFunctionalTest extends TestCase {
+public final class gRuntimeTypeAdapterFactoryFunctionalTest extends TestCase {
 
   private final Gson gson = new Gson();
 
